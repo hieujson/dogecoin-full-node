@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # TODO: determine latest automatically
-VERSION=1.14.4
+VERSION=1.14.6
 
 set_os() {
     #!/bin/bash
