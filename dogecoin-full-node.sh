@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # TODO: determine latest automatically
-VERSION=1.14.6
+VERSION=1.14.7
 
 # TODO: check disk space
 # TODO: check memory
